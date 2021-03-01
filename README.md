@@ -4,7 +4,7 @@ This is a series of workshops and hands-on labs that cover relevant cloud native
 
 ## 1. Virtualisation
 
-[Docker 101](https://www.docker.com/101-tutorial)
+[Docker 101](https://www.docker.com/101-tutorial){:target="_blank"}
 
 Required: Docker or Docker Desktop
 
@@ -12,30 +12,30 @@ Provided by Docker, Inc.
 
 ## 2. Kubernetes
 
-[Kubernetes Hands-on](https://harald-u.github.io/kubernetes-handson/)
+[Kubernetes Hands-on](https://harald-u.github.io/kubernetes-handson/){:target="_blank"}
 
 Required: Minikube
 
 Builds on the Docker 101, uses the same app but deploys it in Kubernetes.
 
-[Get your Java Microservice up and running](https://harald-u.github.io/java-microservice-handson/)
+[Get your Java Microservice up and running](https://harald-u.github.io/java-microservice-handson/){:target="_blank"}
 
 Required: IBM Cloud Account + Feature Code
 
 ## 3. Service Mesh / Istio
 
-[Istio Hands-on](https://harald-u.github.io/istio-handson/)
+[Istio Hands-on](https://harald-u.github.io/istio-handson/){:target="_blank"}
 
 Required: IBM Cloud Account + Feature Code
 
 ## 4. Security and Microservices
 
-[Cloud Native Starter Security](https://harald-u.github.io/security-and-microservices/)
+[Cloud Native Starter Security](https://harald-u.github.io/security-and-microservices/){:target="_blank"}
 
 Required: Minikube
 
 ## 5. Serverless - Knative
 
-[Knative on Minikube](https://harald-u.github.io/knative-on-minikube/)
+[Knative on Minikube](https://harald-u.github.io/knative-on-minikube/){:target="_blank"}
 
 Required: Minikube
