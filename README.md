@@ -1,6 +1,6 @@
 # Hands-On-Labs
 
-This is a series of workshops and hands-on labs that covers relevant cloud native technologies.
+This is a series of workshops and hands-on labs that cover relevant cloud native technologies.
 
 ## 1. Virtualisation
 
