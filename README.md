@@ -6,7 +6,7 @@ This is a series of workshops and hands-on labs that cover relevant cloud native
 
 [Docker 101](https://www.docker.com/101-tutorial){:target="_blank"}
 
-Required: Docker or Docker Desktop
+Required: Docker or Docker Desktop or use "Play with Docker" (cloud based in a browser)
 
 Provided by Docker, Inc.
 
