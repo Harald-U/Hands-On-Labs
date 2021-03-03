@@ -20,7 +20,7 @@ Builds on the Docker 101, uses the same app but deploys it in Kubernetes.
 
 [Get your Java Microservice up and running](https://harald-u.github.io/java-microservice-handson/){:target="_blank"}
 
-Required: IBM Cloud Account + Feature Code
+Required: IBM Cloud Account and Feature Code plus Docker or Docker Desktop
 
 ## 3. Service Mesh / Istio
 
