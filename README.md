@@ -1,54 +1,51 @@
-# Hands-On-Labs
+# Überblick Übungen
 
-This is a series of workshops and hands-on labs that cover relevant cloud native technologies.
+## 1. Virtualisierung
 
----
+### Übung: Docker 101 Tutorial
 
-## 1. Virtualisation
+https://www.docker.com/101-tutorial
 
-[Docker 101](https://www.docker.com/101-tutorial){:target="_blank"}
+* Erforderlich: Docker, Docker Desktop oder Play with Docker
+* Quelle: Docker. Inc.
 
-* Required: Docker or Docker Desktop or use "Play with Docker" (cloud based in a browser)
-* Provided by Docker, Inc.
+### Containerized Python Development (Optional)
 
-[Containerized Python Development](https://www.docker.com/blog/containerized-python-development-part-1/){:target="_blank"}
+https://www.docker.com/blog/containerized-python-development-part-1/
 
-* Required: Docker or Docker Desktop
-* Blog/Tutorial specifically targeting Python developers. Provided by Docker, Inc.
-
----
+*    Blog/Tutorial spezifisch für Python-Entwicklung
+*    Erforderlich: Docker, Docker Desktop
+*    Quelle: Docker, Inc.
+*    Es ist leider ein Fehler in "server.py" Zeile 5 (IndentationError: unexpected indent) -> Leerzeichen am Anfang der Zeile löschen
 
 ## 2. Kubernetes
 
-[Kubernetes Hands-on](https://harald-u.github.io/kubernetes-handson/){:target="_blank"}
+### Kubernetes Hands-on
 
-* Required: Minikube
-* Builds on the Docker 101, uses the same app but deploys it in Kubernetes.
+https://harald-u.github.io/kubernetes-handson/
 
-[Get your Java Microservice up and running](https://harald-u.github.io/java-microservice-handson/){:target="_blank"}
-
-* Required: IBM Cloud Account and Feature Code plus Docker or Docker Desktop
-
----
+*    Erforderlich: Minikube
 
 ## 3. Service Mesh / Istio
 
-[Istio Hands-on](https://harald-u.github.io/istio-handson/){:target="_blank"}
+### Istio Hands-on
 
-* Required: IBM Cloud Account + Feature Code
+https://harald-u.github.io/istio-on-minikube-handson/
 
----
+*    Erforderlich: Minikube
 
-## 4. Security and Microservices
+## 4. Serverless - Knative
 
-[Cloud Native Starter Security](https://harald-u.github.io/security-and-microservices/){:target="_blank"}
+### Knative on Minikube
 
-* Required: Minikube
+https://harald-u.github.io/knative-on-minikube/
 
----
+*    Erforderlich: Minikube
 
-## 5. Serverless - Knative
+## 5. Security und Microservices (Optional)
 
-[Knative on Minikube](https://harald-u.github.io/knative-on-minikube/){:target="_blank"}
+### Security and Microservices
 
-* Required: Minikube
+https://harald-u.github.io/security-and-microservices/
+
+    Erforderlich: Minikube
