@@ -4,14 +4,14 @@
 
 ### Übung: Docker 101 Tutorial
 
-https://www.docker.com/101-tutorial
+[https://www.docker.com/101-tutorial](https://www.docker.com/101-tutorial)
 
 * Erforderlich: Docker, Docker Desktop oder Play with Docker
 * Quelle: Docker. Inc.
 
 ### Containerized Python Development (Optional)
 
-https://www.docker.com/blog/containerized-python-development-part-1/
+[https://www.docker.com/blog/containerized-python-development-part-1/](https://www.docker.com/blog/containerized-python-development-part-1/)
 
 *    Blog/Tutorial spezifisch für Python-Entwicklung
 *    Erforderlich: Docker, Docker Desktop
@@ -22,7 +22,7 @@ https://www.docker.com/blog/containerized-python-development-part-1/
 
 ### Kubernetes Hands-on
 
-https://harald-u.github.io/kubernetes-handson/
+[https://harald-u.github.io/kubernetes-handson/](https://harald-u.github.io/kubernetes-handson/)
 
 *    Erforderlich: Minikube
 
@@ -30,7 +30,7 @@ https://harald-u.github.io/kubernetes-handson/
 
 ### Istio Hands-on
 
-https://harald-u.github.io/istio-on-minikube-handson/
+[https://harald-u.github.io/istio-on-minikube-handson/](https://harald-u.github.io/istio-on-minikube-handson/)
 
 *    Erforderlich: Minikube
 
@@ -38,7 +38,7 @@ https://harald-u.github.io/istio-on-minikube-handson/
 
 ### Knative on Minikube
 
-https://harald-u.github.io/knative-on-minikube/
+[https://harald-u.github.io/knative-on-minikube/](https://harald-u.github.io/knative-on-minikube/)
 
 *    Erforderlich: Minikube
 
@@ -46,6 +46,6 @@ https://harald-u.github.io/knative-on-minikube/
 
 ### Security and Microservices
 
-https://harald-u.github.io/security-and-microservices/
+[https://harald-u.github.io/security-and-microservices/](https://harald-u.github.io/security-and-microservices/)
 
     Erforderlich: Minikube
