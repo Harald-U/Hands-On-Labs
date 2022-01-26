@@ -48,4 +48,4 @@
 
 [https://harald-u.github.io/security-and-microservices/](https://harald-u.github.io/security-and-microservices/)
 
-    Erforderlich: Minikube
+*    Erforderlich: Minikube
