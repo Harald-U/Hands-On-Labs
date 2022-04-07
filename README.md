@@ -2,14 +2,13 @@
 
 ## 1. Virtualisierung
 
-### Übung: Docker 101 Tutorial
+### Docker 101
 
-[https://www.docker.com/101-tutorial](https://www.docker.com/101-tutorial)
+[https://harald-u.github.io/docker-101/](https://harald-u.github.io/docker-101/)
 
-* Erforderlich: Docker, Docker Desktop oder Play with Docker
-* Quelle: Docker. Inc.
+* Erforderlich: Docker, Docker Desktop mac/Windows
 
-### Containerized Python Development (Optional)
+#### Containerized Python Development (Optional)
 
 [https://www.docker.com/blog/containerized-python-development-part-1/](https://www.docker.com/blog/containerized-python-development-part-1/)
 
