@@ -8,7 +8,7 @@
 
 * Erforderlich: Docker, Docker Desktop mac/Windows
 
-#### OPTIONAL: Containerized Python Development
+##### OPTIONAL: Containerized Python Development
 
 [https://www.docker.com/blog/containerized-python-development-part-1/](https://www.docker.com/blog/containerized-python-development-part-1/)
 
