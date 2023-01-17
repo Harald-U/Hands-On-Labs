@@ -6,9 +6,9 @@
 
 [https://harald-u.github.io/docker-101/](https://harald-u.github.io/docker-101/)
 
-* Erforderlich: Docker, Docker Desktop mac/Windows
+* Erforderlich: Docker CE (Linux), Docker Desktop (Mac/Windows/Linux)
 
-##### OPTIONAL: Containerized Python Development
+##### **OPTIONAL:** Containerized Python Development
 
 [https://www.docker.com/blog/containerized-python-development-part-1/](https://www.docker.com/blog/containerized-python-development-part-1/)
 
