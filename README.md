@@ -8,14 +8,14 @@
 
 * Erforderlich: Docker CE (Linux), Docker Desktop (Mac/Windows/Linux)
 
-##### **OPTIONAL:** Containerized Python Development
+##### *OPTIONAL: Containerized Python Development*
 
 [https://www.docker.com/blog/containerized-python-development-part-1/](https://www.docker.com/blog/containerized-python-development-part-1/)
 
-*    Blog/Tutorial spezifisch für Python-Entwicklung
-*    Erforderlich: Docker, Docker Desktop
-*    Quelle: Docker, Inc.
-*    Es ist leider ein Fehler in "server.py" Zeile 5 (IndentationError: unexpected indent) -> Leerzeichen am Anfang der Zeile löschen
+*    *Blog/Tutorial spezifisch für Python-Entwicklung*
+*    *Erforderlich: Docker, Docker Desktop*
+*    *Quelle: Docker, Inc.*
+*    *Es ist leider ein Fehler in "server.py" Zeile 5 (IndentationError: unexpected indent) -> Leerzeichen am Anfang der Zeile löschen*
 
 ## 2. Kubernetes
 
