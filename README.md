@@ -33,18 +33,18 @@
 
 *    Erforderlich: Minikube
 
-## 4. Serverless - Knative
-
-### Knative on Minikube
-
-[https://harald-u.github.io/knative-on-minikube/](https://harald-u.github.io/knative-on-minikube/)
-
-*    Erforderlich: Minikube
-
-## 5. Security und Microservices (Optional)
+## 4. Security und Microservices
 
 ### Security and Microservices
 
 [https://harald-u.github.io/security-and-microservices/](https://harald-u.github.io/security-and-microservices/)
+
+*    Erforderlich: Minikube
+
+## 4. Serverless - Knative (Optional)
+
+### Knative on Minikube
+
+[https://harald-u.github.io/knative-on-minikube/](https://harald-u.github.io/knative-on-minikube/)
 
 *    Erforderlich: Minikube
