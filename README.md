@@ -41,7 +41,7 @@
 
 *    Erforderlich: Minikube
 
-## 4. Serverless - Knative (Optional)
+## 5. Serverless - Knative (Optional)
 
 ### Knative on Minikube
 
